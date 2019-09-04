@@ -1,0 +1,7 @@
+# Carpetas
+build/
+nbproject/
+
+# Archivos
+build.xml
+manifest.mf
