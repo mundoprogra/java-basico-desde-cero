@@ -1,4 +1,4 @@
-package introduccion;
+package metodosjava;
 
 import javax.swing.JOptionPane;
 
