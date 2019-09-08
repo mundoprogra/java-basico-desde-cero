@@ -34,6 +34,4 @@ public class Encapsulamiento {
     public void setCaracter(char caracter) {
         this.caracter = caracter;
     }
-    
-    
 }
