@@ -1,12 +1,12 @@
 
-import poo.Objeto;
+import poo.Clase;
 
 public class Principal {
     public static void main(String[] args){
         // Instancia o objeto de la clase objeto.
-        Objeto obj = new Objeto();
+        Clase obj = new Clase();
         
         // Llamada al metodo.
-        obj.MetodoUno();
+        obj.metodoUno();
     }
 }
